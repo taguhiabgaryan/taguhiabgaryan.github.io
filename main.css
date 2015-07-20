@@ -1,0 +1,79 @@
+.nav
+{
+  background-color: #0099ff;
+  padding-bottom: 0;
+  padding-top: 3px;
+  align-items: center;
+}
+
+.nav a
+{
+  font-size: 16px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  color: white;
+}
+
+.nav li
+{
+  display: inline;
+}
+
+.brand a
+{
+  font-size: 23px;
+  font-family: inherit;
+  color: white;
+}
+
+.col-md-3 p
+{
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 0px;
+  padding-top: 5px;
+  font-size: 20;
+  text-align: center;
+  align: center;
+}
+
+.col-md-3 img
+{
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 0px;
+  padding-top: 5px;
+  transform: translate(100%, 0);
+  align: center;
+}
+
+.col-md-3 h2
+{
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: center;
+  align: center;
+}
+
+.col-md-4
+{
+  padding-left: 30px;
+}
+
+.col-md-2 h3
+{
+  color: #003366;
+}
+
+.col-md-2 a
+{
+  color: white;
+}
+
+.navbar
+{
+  background-color: #0099ff;
+  color: white;
+}
